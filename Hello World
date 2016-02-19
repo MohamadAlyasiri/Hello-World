@@ -1,0 +1,18 @@
+html>
+
+<head> 
+<title> this is the title of the page </title>
+
+</head>
+
+<body>
+
+<h1>  Hello World ........! </h1>
+
+<p> this is my document in the body  </p>
+<p lang="en-us"> the paragraph in english</p>
+<p> my name is mohamad alyasiri</p>
+
+</body>
+
+</html>
